@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rizkyhaksono
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning HTML, CSS, JS
-- 💞️ I’m looking to collaborate on Web Developer
+- 💞️ I’m looking to collaborate on Web Developmet
 - 📫 How to reach me Instagram: @rizkyhaksonoo
 
 <!---
