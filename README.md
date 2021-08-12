@@ -2,7 +2,9 @@
 
 - <h3>Let's do collaborate!</h3>
 
-- ![Alt Text](http://myanimelist.net/featured/1609/20_Best_Anime_Smiles__Turn_That_Frown_Upside_Down)
+- ![Alt Text](http://myanimelist.net/featured/1609/20_Best_Anime_Smiles__Turn_That_Frown_Upside_Down.gif)
+
+- <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
 
 
 <!---
