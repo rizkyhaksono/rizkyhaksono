@@ -2,7 +2,9 @@
 
 - <h3>Let's do collaborate!</h3>
 
-- <link href="http://myanimelist.net/featured/1609/20_Best_Anime_Smiles__Turn_That_Frown_Upside_Down" rel="stylesheet"> 
+- <link href="http://myanimelist.net/featured/1609/20_Best_Anime_Smiles__Turn_That_Frown_Upside_Down" rel="stylesheet">
+
+- <img src="http://myanimelist.net/featured/1609/20_Best_Anime_Smiles__Turn_That_Frown_Upside_Down" alt="img1">
 
 
 <!---
