@@ -4,7 +4,8 @@
 
 - ![alt-text](https://tenor.com/6i3l.gif)
 
-- ![grab-landing-page](https://github.com/winnie1312/grab/blob/master/grab-landingpage-winnie.gif)
+- ![grab-landing-page](https://tenor.com/6i3l.gif)
+
 
 <!---
 rizkyhaksono/rizkyhaksono is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
