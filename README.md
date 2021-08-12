@@ -4,7 +4,7 @@
 
 - ![alt-text](https://tenor.com/6i3l.gif)
 
-- ![grab-landing-page](https://tenor.com/6i3l.gif)
+- ![hippo](https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif)
 
 
 <!---
