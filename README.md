@@ -2,7 +2,7 @@
 
 - <h3>Let's do collaborate!</h3>
 
-- ![Alt Text](http://myanimelist.net/featured/1609/20_Best_Anime_Smiles__Turn_That_Frown_Upside_Down.gif)
+- ![Alt Text](https://tenor.com/6i3l.gif)
 
 - <img src="https://tenor.com/6i3l.gif" width="40" height="40" />
 
