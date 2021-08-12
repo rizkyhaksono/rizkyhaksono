@@ -2,7 +2,7 @@
 
 - <h3>Let's do collaborate!</h3>
 
-<span> <img src="https://media.giphy.com/media/rFfmUWVMOyKVG/giphy.gif" width="150" height="100" />
+- <img src="https://media.giphy.com/media/rFfmUWVMOyKVG/giphy.gif" width="150" height="100" />
 
 - 🌱 I’m currently learning HTML, CSS, & JavaScript
 
