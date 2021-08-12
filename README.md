@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @rizkyhaksono
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning HTML, CSS, JS
-- 💞️ I’m looking to collaborate on Web Developmet
-- 📫 How to reach me on Instagram @rizkyhaksonoo
+- 👋 Hi, I’m rizkyhaksono
 
 <!---
 rizkyhaksono/rizkyhaksono is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
