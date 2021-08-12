@@ -2,7 +2,7 @@
 
 - <h3>Let's do collaborate!</h3>
 
-- ![alt-text](https://tenor.com/6i3l.gif)
+- ![smile](https://media.giphy.com/media/rFfmUWVMOyKVG/giphy.gif)
 
 - ![hippo](https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif)
 
