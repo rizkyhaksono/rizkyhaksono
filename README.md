@@ -2,7 +2,7 @@
 
 - <h3>Let's do collaborate!</h3>
 
-![smile](https://media.giphy.com/media/rFfmUWVMOyKVG/giphy.gif widht:"20")
+![smile](https://media.giphy.com/media/rFfmUWVMOyKVG/giphy.gif width="40" height="40")
 
 
 <!---
