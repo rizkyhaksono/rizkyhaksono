@@ -1,11 +1,12 @@
 <link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro&display=swap" rel="stylesheet">
 
+<style>
 {
     margin: 0px; padding: 0px;
     font-family: 'Ubuntu', sans-serif; font-weight: normal;
     max-width: 100% !important;
 }
-
+</style>
 
 - <h1> Hi, I’m rizkyhaksono 👋</h1>
 
