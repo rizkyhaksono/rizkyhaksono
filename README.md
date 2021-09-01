@@ -4,7 +4,7 @@
 
 - <img src="https://media.giphy.com/media/rFfmUWVMOyKVG/giphy.gif" width="150" height="100" />
 
-- 🌱 I’m currently learning HTML, CSS, & JavaScript
+- 🌱 I’m currently learning HTML, CSS, JavaScript and PHP! 
 
 <!---
 rizkyhaksono/rizkyhaksono is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
