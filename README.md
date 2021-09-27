@@ -1,4 +1,4 @@
-### Hi, I'm Rizky Haksono
+### Hi there 👋, I'm Rizky Haksono
 
 ## Status
 <img src="https://github-readme-stats.vercel.app/api?username=rizkyhaksono&&show_icons=true&title_color=800080&icon_color=bb2acf&text_color=daf7dc&bg_color=000000">
