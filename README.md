@@ -1,4 +1,7 @@
-- <h2> Hi, I’m rizkyhaksono 👋</h2>
+### Hi, I'm Rizky Haksono
+
+## Status
+(https://github-readme-stats.vercel.app/api?username=rizkyhaksono&show_icons=true&theme=radical)
 
 - <h3>Let's do collaborate!</h3>
 
