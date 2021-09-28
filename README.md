@@ -9,10 +9,10 @@
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
-- 🌱 I’m currently learning Laravel, NodeJS
+- 🌱 I’m currently learning Laravel
 - 📫 How to reach me: [Instagram](https://www.instagram.com/rizkyhaksonoo/)
 - 😄 Pronouns: He, not Him, cause i'll never be Him
-- ⚡ Fun fact: Balls
+- ⚡ Fun fact: Nothing much about it
 
 ## Contact
 [<img src = "https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">](https://wa.me//?text=Hello,%20I%20See%20Your%20GitHub!)
