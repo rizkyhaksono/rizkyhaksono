@@ -9,7 +9,7 @@
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
-- 🌱 I’m currently learning Laravel
+- 🌱 I’m currently learning NodeJS, React
 - 📫 How to reach me: [Instagram](https://www.instagram.com/rizkyhaksonoo/)
 - 😄 Pronouns: He. Not Him. Cause I'll Never Be Him
 - ⚡ Quotes: No sleep 'till error fixed
