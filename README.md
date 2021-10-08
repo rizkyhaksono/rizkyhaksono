@@ -11,7 +11,7 @@
 <!-- - 💬 Ask me about ... -->
 - 🌱 I’m currently learning Laravel
 - 📫 How to reach me: [Instagram](https://www.instagram.com/rizkyhaksonoo/)
-- 😄 Pronouns: He, not Him, cause I'll never be Him
+- 😄 Pronouns: He. Not Him. Cause I'll Never Be Him
 - ⚡ Quotes: No sleep 'till error fixed
 
 ## Contact
