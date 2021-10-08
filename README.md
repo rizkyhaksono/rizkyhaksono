@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning NodeJS, React
 - 📫 How to reach me: [Instagram](https://www.instagram.com/rizkyhaksonoo/)
 - 😄 Pronouns: He. Not Him. Cause I'll Never Be Him
-- ⚡ Quotes: No sleep 'till error fixed
+- ⚡ Quotes: Good Mood Causing Awesome Code
 
 ## Contact
 [<img src = "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/rizkyhaksonoo)
