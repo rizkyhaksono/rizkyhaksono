@@ -20,19 +20,19 @@
 </a>
 
 <a href="https://discordapp.com/users/445224810511859733/">
-  <img align="left" alt="Rizky's Discord" width="32px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+  <img align="left" alt="Rizky's Discord" width="32px" src="https://img.icons8.com/color/48/000000/discord-logo.png" />
 </a>
 
 <a href="https://open.spotify.com/user/pokopoy">
-  <img align="left" alt="Rizky's Spotify" width="32px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+  <img align="left" alt="Rizky's Spotify" width="32px" ssrc="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/000000/external-spotify-a-swedish-audio-streaming-platform-that-provides-drm-protected-logo-color-tal-revivo.png" />
 </a>
 
 <a href="https://github.com/rizkyhaksono">
-  <img align="left" alt="Rizky's GitHub" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg">
+  <img align="left" alt="Rizky's GitHub" width="32" src="https://img.icons8.com/ios-glyphs/30/000000/github.png">
 </a>
 
  <a href="https://steamcommunity.com/id/natee">
-  <img align="left" alt="Rizky's Steam" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/steam.svg">
+  <img align="left" alt="Rizky's Steam" width="32" src="https://img.icons8.com/fluency/30/000000/steam.png">
 </a>
 
  <a href="https://saweria.co/natee">
