@@ -9,10 +9,9 @@
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
-- 🌱 I’m currently learning NodeJS, React
-- 📫 How to reach me: [Instagram](https://www.instagram.com/rizkyhaksonoo/)
+- 🌱 I’m currently learning API's, React JS
 - 😄 Pronouns: He. Not Him. Cause I'll Never Be Him
-- ⚡ Quotes: Good Mood Causing Awesome Code
+- ⚡ Quotes: “I'm not a great programmer; I'm just a good programmer with great habits.” ― Kent Beck 
 
 ## My Contact
 <a href="https://www.instagram.com/rizkyhaksonoo/"/>
