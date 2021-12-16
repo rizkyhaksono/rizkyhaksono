@@ -27,7 +27,7 @@
 </a>
 
 <a href="https://github.com/rizkyhaksono">
-  <img align="left" alt="Rizky's GitHub" width="32" src="https://img.icons8.com/ios-glyphs/30/000000/github.png">
+  <img align="left" alt="Rizky's GitHub" width="32" src="https://img.icons8.com/plasticine/50/000000/github.png">
 </a>
 
  <a href="https://steamcommunity.com/id/natee">
@@ -35,5 +35,5 @@
 </a>
 
  <a href="https://saweria.co/natee">
-  <img align="left" alt="Rizky's Steam" width="32" src="https://img.icons8.com/ios/50/000000/yandex-money.png">
+  <img align="left" alt="Rizky's Steam" width="32" img src="https://img.icons8.com/doodle/48/000000/money.png">
 </a>
