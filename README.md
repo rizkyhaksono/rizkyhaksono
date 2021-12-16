@@ -23,7 +23,7 @@
 </a>
 
 <a href="https://open.spotify.com/user/pokopoy">
-  <img align="left" alt="Rizky's Spotify" width="24px" src="https://img.icons8.com/plasticine/100/000000/spotify--v2.png" />
+  <img align="left" alt="Rizky's Spotify" width="24px" src="https://img.icons8.com/fluency/48/000000/spotify.png" />
 </a>
 
 <a href="https://github.com/rizkyhaksono">
@@ -35,5 +35,5 @@
 </a>
 
  <a href="https://saweria.co/natee">
-  <img align="left" alt="Rizky's Steam" width="36px" img src="https://img.icons8.com/doodle/48/000000/money.png">
+  <img align="left" alt="Rizky's Saweria" width="36px" img src="https://img.icons8.com/doodle/48/000000/money.png">
 </a>
