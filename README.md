@@ -15,8 +15,8 @@
 - ⚡ Quotes: Good Mood Causing Awesome Code
 
 ## My Contact
-[<img src = "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/rizkyhaksonoo)
-[<img src = "https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">](https://discordapp.com/users/445224810511859733)
+[<img src = "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/rizkyhaksonoo)]
+[<img src = "https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">](https://discordapp.com/users/445224810511859733)]
 
 <a href="https://discordapp.com/users/445224810511859733/">
   <img align="left" alt="Rizky's Discord" width="32px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
