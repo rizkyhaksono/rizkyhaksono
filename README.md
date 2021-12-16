@@ -23,7 +23,7 @@
 </a>
 
 <a href="https://open.spotify.com/user/pokopoy">
-  <img align="left" alt="Rizky's Spotify" width="24px" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/000000/external-spotify-a-swedish-audio-streaming-platform-that-provides-drm-protected-logo-color-tal-revivo.png" />
+  <img align="left" alt="Rizky's Spotify" width="24px" src="https://img.icons8.com/color/48/000000/spotify--v3.png" />
 </a>
 
 <a href="https://github.com/rizkyhaksono">
