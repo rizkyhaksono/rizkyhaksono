@@ -1,4 +1,4 @@
-### Hi There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Rizky Haksono
+### Hi There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm [Rizky Haksono](https://rizkyhaksono.github.io)
 
 ## Status ![](https://visitor-badge.glitch.me/badge?page_id=rizkyhaksono.rizkyhaksono)
 <img src = "https://github-readme-stats.vercel.app/api?username=rizkyhaksono&show_icons=true&theme=gotham" alt="rizky's stats" />
@@ -13,7 +13,7 @@
 - 😄 Pronouns: He. Not Him. Cause I'll Never Be Him
 - ⚡ Quotes: “I'm not a great programmer; I'm just a good programmer with great habits.” ― Kent Beck 
 
-## My Contact
+## Connect With Me
 <a href="https://www.instagram.com/rizkyhaksonoo/"/>
   <img align="left" alt="Rizky's IG" width="32px" src="https://img.icons8.com/fluency/50/000000/instagram-new.png"/>
 </a>
