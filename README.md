@@ -1,5 +1,7 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Rizky Haksono
 
+![](https://visitor-badge.glitch.me/badge?page_id=rizkyhaksono.rizkyhaksono)
+
 ## Status
 <img src = "https://github-readme-stats.vercel.app/api?username=rizkyhaksono&show_icons=true&theme=gotham" alt="rizky's stats" />
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=rizkyhaksono&&show_icons=true&theme=gotham" alt="rizky's top lang">
@@ -25,5 +27,3 @@
 <a href="https://open.spotify.com/user/pokopoy">
   <img align="left" alt="Rizky's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
-
-![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
