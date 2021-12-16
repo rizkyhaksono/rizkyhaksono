@@ -1,6 +1,5 @@
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Rizky Haksono
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Rizky Haksono ![](https://visitor-badge.glitch.me/badge?page_id=rizkyhaksono.rizkyhaksono)
 
-![](https://visitor-badge.glitch.me/badge?page_id=rizkyhaksono.rizkyhaksono)
 ## Status
 <img src = "https://github-readme-stats.vercel.app/api?username=rizkyhaksono&show_icons=true&theme=gotham" alt="rizky's stats" />
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=rizkyhaksono&&show_icons=true&theme=gotham" alt="rizky's top lang">
@@ -20,9 +19,21 @@
 [<img src = "https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">](https://discordapp.com/users/445224810511859733)
 
 <a href="https://discordapp.com/users/445224810511859733/">
-  <img align="left" alt="Rizky's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+  <img align="left" alt="Rizky's Discord" width="32px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 
 <a href="https://open.spotify.com/user/pokopoy">
-  <img align="left" alt="Rizky's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+  <img align="left" alt="Rizky's Spotify" width="32px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+</a>
+
+<a href="https://github.com/rizkyhaksono">
+  <img align="left" alt="Rizky's GitHub" width="32" src="assets/github.svg">
+</a>
+
+ <a href="https://steamcommunity.com/id/natee">
+  <img align="left" alt="Rizky's Steam" width="32" src="assets/steam.svg">
+</a>
+
+ <a href="https://saweria.co/natee">
+  <img align="left" alt="Rizky's Steam" width="32" src="assets/steam.svg">
 </a>
