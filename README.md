@@ -23,7 +23,7 @@
 </a>
 
 <a href="https://open.spotify.com/user/pokopoy">
-  <img align="left" alt="Rizky's Spotify" width="32px" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/000000/external-spotify-a-swedish-audio-streaming-platform-that-provides-drm-protected-logo-color-tal-revivo.png" />
+  <img align="left" alt="Rizky's Spotify" width="28px" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/000000/external-spotify-a-swedish-audio-streaming-platform-that-provides-drm-protected-logo-color-tal-revivo.png" />
 </a>
 
 <a href="https://github.com/rizkyhaksono">
@@ -35,5 +35,5 @@
 </a>
 
  <a href="https://saweria.co/natee">
-  <img align="left" alt="Rizky's Steam" width="32" img src="https://img.icons8.com/doodle/48/000000/money.png">
+  <img align="left" alt="Rizky's Steam" width="36" img src="https://img.icons8.com/doodle/48/000000/money.png">
 </a>
