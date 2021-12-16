@@ -27,13 +27,13 @@
 </a>
 
 <a href="https://github.com/rizkyhaksono">
-  <img align="left" alt="Rizky's GitHub" width="32" src="assets/github.svg">
+  <img align="left" alt="Rizky's GitHub" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg">
 </a>
 
  <a href="https://steamcommunity.com/id/natee">
-  <img align="left" alt="Rizky's Steam" width="32" src="assets/steam.svg">
+  <img align="left" alt="Rizky's Steam" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/steam.svg">
 </a>
 
  <a href="https://saweria.co/natee">
-  <img align="left" alt="Rizky's Steam" width="32" src="assets/steam.svg">
+  <img align="left" alt="Rizky's Steam" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/steam.svg">
 </a>
