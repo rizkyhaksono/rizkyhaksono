@@ -35,5 +35,5 @@
 </a>
 
  <a href="https://saweria.co/natee">
-  <img align="left" alt="Rizky's Steam" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/saweria.svg">
+  <img align="left" alt="Rizky's Steam" width="32" src="https://img.icons8.com/ios/50/000000/yandex-money.png">
 </a>
