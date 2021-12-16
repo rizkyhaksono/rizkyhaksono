@@ -23,11 +23,11 @@
 </a>
 
 <a href="https://open.spotify.com/user/pokopoy">
-  <img align="left" alt="Rizky's Spotify" width="24px" src="https://img.icons8.com/color/48/000000/spotify--v3.png" />
+  <img align="left" alt="Rizky's Spotify" width="24px" src="https://img.icons8.com/plasticine/100/000000/spotify--v2.png" />
 </a>
 
 <a href="https://github.com/rizkyhaksono">
-  <img align="left" alt="Rizky's GitHub" width="36px" src="https://img.icons8.com/plasticine/50/000000/github.png">
+  <img align="left" alt="Rizky's GitHub" width="38px" src="https://img.icons8.com/plasticine/50/000000/github.png">
 </a>
 
  <a href="https://steamcommunity.com/id/natee">
