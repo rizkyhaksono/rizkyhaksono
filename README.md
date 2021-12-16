@@ -1,8 +1,10 @@
-### Hi there 👋, I'm Rizky Haksono
+### Hi there �<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Rizky Haksono
 
 ## Status
 <img src="https://github-readme-stats.vercel.app/api?username=rizkyhaksono&&show_icons=true&title_color=800080&icon_color=bb2acf&text_color=daf7dc&bg_color=000000">
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=rizkyhaksono&&show_icons=true&title_color=800080&icon_color=bb2acf&text_color=daf7dc&bg_color=000000">
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=rizkyhaksono&show_icons=true&theme=gotham" alt="rizkyhaksono" />
 
 ## About Me
 <!-- - 🔭 I’m currently working on ... -->
@@ -14,11 +16,16 @@
 - 😄 Pronouns: He. Not Him. Cause I'll Never Be Him
 - ⚡ Quotes: Good Mood Causing Awesome Code
 
-## Contact
+## My Contact
 [<img src = "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/rizkyhaksonoo)
 [<img src = "https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">](https://discordapp.com/users/445224810511859733)
 
-<!---[<img src = "https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white">](https://steamcommunity.com/profiles/76561198388815677/) -->
-<!-- [<img src = "https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">](https://wa.me//?text=Hello,%20I%20See%20Your%20GitHub!) -->
-<!-- [<img src = "https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">](https://t.me/) -->
-<!-- [<img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:mrizkyhaksono@gmail.com) -->
+<a href="https://discordapp.com/users/445224810511859733/">
+  <img align="left" alt="Rizky's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+</a>
+
+<a href="https://open.spotify.com/user/pokopoy">
+  <img align="left" alt="Rizky's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+</a>
+
+![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
