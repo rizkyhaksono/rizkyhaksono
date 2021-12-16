@@ -23,15 +23,15 @@
 </a>
 
 <a href="https://open.spotify.com/user/pokopoy">
-  <img align="left" alt="Rizky's Spotify" width="24px" src="https://img.icons8.com/fluency/48/000000/spotify.png" />
+  <img align="left" alt="Rizky's Spotify" width="30px" src="https://img.icons8.com/fluency/48/000000/spotify.png" />
 </a>
 
 <a href="https://github.com/rizkyhaksono">
-  <img align="left" alt="Rizky's GitHub" width="38px" src="https://img.icons8.com/plasticine/50/000000/github.png">
+  <img align="left" alt="Rizky's GitHub" width="40px" src="https://img.icons8.com/plasticine/50/000000/github.png">
 </a>
 
  <a href="https://steamcommunity.com/id/natee">
-  <img align="left" alt="Rizky's Steam" width="32px" src="https://img.icons8.com/fluency/30/000000/steam.png">
+  <img align="left" alt="Rizky's Steam" width="32px" src="https://img.icons8.com/fluency/100/000000/steam.png">
 </a>
 
  <a href="https://saweria.co/natee">
