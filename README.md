@@ -30,7 +30,7 @@
   <img align="left" alt="Rizky's GitHub" width="40px" src="https://img.icons8.com/plasticine/50/000000/github.png">
 </a>
 
- <a href="https://steamcommunity.com/id/natee">
+ <a href="https://steamcommunity.com/id/nateeonly">
   <img align="left" alt="Rizky's Steam" width="32px" src="https://img.icons8.com/fluency/100/000000/steam.png">
 </a>
 
