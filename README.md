@@ -1,4 +1,4 @@
-### Hi There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm [Rizky Haksono](https://rizkyhaksono.github.io)
+### Hi There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm [Rizky Haksono](https://github.com/rizkyhaksono/rizkyhaksono)
 
 ## Status ![](https://visitor-badge.glitch.me/badge?page_id=rizkyhaksono.rizkyhaksono)
 <img src = "https://github-readme-stats.vercel.app/api?username=rizkyhaksono&show_icons=true&theme=gotham" alt="rizky's stats" />
