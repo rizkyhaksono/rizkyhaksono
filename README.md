@@ -16,7 +16,7 @@
 ## Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=32px>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rizkyhaksono&langs_count_private=true&theme=radical&card_width=445)
 
-## Recently Play
+## Recently Played
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=pokopoy&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true)](https://open.spotify.com/user/pokopoy)
 
 ## Connect With Me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
