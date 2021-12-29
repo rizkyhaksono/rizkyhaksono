@@ -1,25 +1,34 @@
 ### Hi There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm [Rizky Haksono](https://github.com/rizkyhaksono/rizkyhaksono)
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Coding"  width="550"/><br> 
 
-## 📊 My Github Stats : ![](https://visitor-badge.glitch.me/badge?page_id=rizkyhaksono.rizkyhaksono)</strong><br>
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rizkyhaksono&show_icons=true&count_private=true&include_all_commits=true&theme=radical)<br>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rizkyhaksono&theme=radical&hide_border=true"/><br>
+### 📊 My Github Stats : ![](https://visitor-badge.glitch.me/badge?page_id=rizkyhaksono.rizkyhaksono)</strong>
 
-## About Me
-<!-- - 🔭 I’m currently working on ... -->
-<!-- - 👯 I’m looking to collaborate on ... -->
-<!-- - 🤔 I’m looking for help with ... -->
-<!-- - 💬 Ask me about ... -->
-- 🌱 I’m currently learning API's, React JS
-- 😄 Pronouns: He. Not Him. Cause I'll Never Be Him
-- ⚡ Quotes: “I'm not a great programmer; I'm just a good programmer with great habits.” ― Kent Beck
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=rizkyhaksono&show_icons=true&count_private=true&include_all_commits=true&theme=radical)
+![Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=rizkyhaksono&theme=radical&hide_border=true)<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rizkyhaksono&hide=TeX&layout=compact&theme=radical)
 
-## Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=32px>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rizkyhaksono&langs_count_private=true&theme=radical&card_width=445)
+### About Me
+```
+🌱 I’m currently learning API's, React JS
+😄 Pronouns: He. Not Him. Cause I'll Never Be Him
+⚡ Quotes: “I'm not a great programmer; I'm just a good programmer with great habits.” ― Kent Beck
+```
+### My Tech Tools Stack
+![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
+![Postman](https://img.shields.io/badge/Postman-black?style=flat-square&logo=postman)
 
-## Recently Played
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=pokopoy&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true)](https://open.spotify.com/user/pokopoy)
+### Vibing To
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=pokopoy&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=pokopoy&redirect=true)
 
-## Connect With Me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
+### Connect With Me
 <a href="https://www.instagram.com/rizkyhaksonoo/"/>
   <img align="left" alt="Rizky's IG" width="32px" src="https://img.icons8.com/fluency/50/000000/instagram-new.png"/>
 </a>
