@@ -1,4 +1,4 @@
-### Hi There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm [Rizky Haksono](https://github.com/rizkyhaksono?tab=repositories)
+### Hi There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm [Rizky Haksono](https://github.com/rizkyhaksono?tab=repositories) 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Coding"  width="550"/><br> 
 
 ### 📊 My Github Stats : ![](https://visitor-badge.glitch.me/badge?page_id=rizkyhaksono.rizkyhaksono)</strong>
@@ -13,13 +13,17 @@
 😄 Pronouns: He. Not Him. Cause I'll Never Be Him
 ⚡ Quotes: “I'm not a great programmer; I'm just a good programmer with great habits.” ― Kent Beck
 ```
-### My Tech Tools Stack
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+### My Tech Stack
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
+### My Tools
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
@@ -30,20 +34,25 @@
 
 ### Connect With Me
 <a href="https://www.instagram.com/rizkyhaksonoo/"/>
-  <img align="left" alt="Rizky's IG" width="32px" src="https://img.icons8.com/fluency/50/000000/instagram-new.png"/>
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 <a href="https://discordapp.com/users/445224810511859733/">
-  <img align="left" alt="Rizky's Discord" width="32px" src="https://img.icons8.com/color/48/000000/discord-logo.png" />
+  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
 </a>
 <a href="https://open.spotify.com/user/pokopoy">
-  <img align="left" alt="Rizky's Spotify" width="30px" src="https://img.icons8.com/fluency/48/000000/spotify.png" />
+  <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" />
 </a>
 <a href="https://github.com/rizkyhaksono">
-  <img align="left" alt="Rizky's GitHub" width="40px" src="https://img.icons8.com/plasticine/50/000000/github.png">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
 </a>
  <a href="https://steamcommunity.com/id/nateeonly">
-  <img align="left" alt="Rizky's Steam" width="32px" src="https://img.icons8.com/fluency/100/000000/steam.png">
+  <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white">
 </a>
- <a href="https://saweria.co/natee">
-  <img align="left" alt="Rizky's Saweria" width="36px" img src="https://img.icons8.com/doodle/48/000000/money.png">
+<a href="https://stackoverflow.com/users/15492744/natee">
+  <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
+</a>
+
+#### Support Me
+<a href="https://saweria.co/natee">
+  <img alt="Rizky's Saweria" src="https://img.icons8.com/doodle/30/000000/money.png">
 </a>
