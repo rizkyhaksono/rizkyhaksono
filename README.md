@@ -1,14 +1,15 @@
+<div align="center">
+
 ### Hi There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm [Rizky Haksono](https://github.com/rizkyhaksono?tab=repositories) 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Coding"  width="550"/><br> 
 
 ------
 
 ### 📊 My Github Stats : ![](https://visitor-badge.glitch.me/badge?page_id=rizkyhaksono.rizkyhaksono)</strong>
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rizkyhaksono&show_icons=true&count_private=true&include_all_commits=true&theme=radical)
-![Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=rizkyhaksono&theme=radical&hide_border=true)<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rizkyhaksono&hide=TeX&layout=compact&theme=radical)
-
+  
+<img height="185px" src="https://github-readme-stats.vercel.app/api?username=rizkyhaksono&show_icons=true">
+<img height="185px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizkyhaksono&layout=compact&langs_count=10">
+    
 <details>
     <summary>&#127942 <b>GitHub Awards</b></summary><br/>
 
@@ -83,3 +84,5 @@
 <a href="https://saweria.co/natee">
   <img alt="Rizky's Saweria" src="https://img.icons8.com/doodle/40/000000/money.png">
 </a>
+
+</div>
