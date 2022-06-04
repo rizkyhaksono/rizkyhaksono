@@ -1,6 +1,6 @@
 <div align="center">
 
-### Hi There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm [Rizky Haksono](https://rizkyhaksono.netlify.app/) 
+### Hi There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%"> I'm [Rizky Haksono](https://rizkyhaksono.netlify.app/) 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Coding"  width="550"/><br> 
 
 ------
