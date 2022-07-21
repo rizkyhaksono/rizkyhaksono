@@ -1,9 +1,7 @@
 <div align="center">
 
 ### Hi There <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> I'm [Rizky Haksono](https://rizkyhaksono.netlify.app/) 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Coding"  width="550"/>
-
-------
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Coding"  width="700"/>
 
 ### 📊 My Github Stats : ![](https://visitor-badge.glitch.me/badge?page_id=rizkyhaksono.rizkyhaksono)</strong>
   
@@ -26,8 +24,6 @@
  <a href="https://steamcommunity.com/id/nateeonly">
   <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white">
 </a>
-
-------
 
 ### Support Me
 <a href="https://saweria.co/natee">
