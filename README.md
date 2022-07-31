@@ -3,12 +3,10 @@
 ### Hi There <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> I'm [Rizky Haksono](https://rizkyhaksono.netlify.app/) 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Coding"  width="500"/>
 
-### 📊 My Github Stats : ![](https://visitor-badge.glitch.me/badge?page_id=rizkyhaksono.rizkyhaksono)</strong>
-
 ### Vibing To
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=pokopoy&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=pokopoy&redirect=true)
 
-### Connect With Me
+### Connect With Me ![](https://visitor-badge.glitch.me/badge?page_id=rizkyhaksono.rizkyhaksono)
 <a href="https://www.instagram.com/rizkyhaksonoo/"/>
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
@@ -24,7 +22,7 @@
 
 ### Support Me
 <a href="https://saweria.co/natee">
-  <img alt="Rizky's Saweria" src="https://img.icons8.com/doodle/40/000000/money.png">
+  <img alt="Rizky's Saweria" src="https://img.icons8.com/doodle/40/000000/money.png"> 
 </a>
 
 </div>
