@@ -1,7 +1,7 @@
 <div align="center">
 
 ### Hi There <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> I'm [Rizky Haksono](https://rizkyhaksono.netlify.app/) 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Coding"  width="600"/>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Coding"  width="500"/>
 
 ### 📊 My Github Stats : ![](https://visitor-badge.glitch.me/badge?page_id=rizkyhaksono.rizkyhaksono)</strong>
 
