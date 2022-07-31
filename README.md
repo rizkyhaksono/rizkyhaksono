@@ -4,9 +4,6 @@
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Coding"  width="600"/>
 
 ### 📊 My Github Stats : ![](https://visitor-badge.glitch.me/badge?page_id=rizkyhaksono.rizkyhaksono)</strong>
-  
-<img height="185px" src="https://github-readme-stats.vercel.app/api?username=rizkyhaksono&show_icons=true">
-<img height="185px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizkyhaksono&layout=compact&langs_count=10">
 
 ### Vibing To
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=pokopoy&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=pokopoy&redirect=true)
