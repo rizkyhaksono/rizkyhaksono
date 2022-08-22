@@ -1,6 +1,3 @@
-<!--
 <div align="center">
-  <img src="https://raw.githubusercontent.com/rizkyhaksono/rizkyhaksono/main/rizkyhaksono-glass-light.png"/>
-  <img src="https://raw.githubusercontent.com/rizkyhaksono/rizkyhaksono/main/rizkyhaksono-glass-dark.png"/> 
+  <img src="https://raw.githubusercontent.com/rizkyhaksono/rizkyhaksono/main/Github%20Banner.png"/>
 </div>
--->
